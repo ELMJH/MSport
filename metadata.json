@@ -1,0 +1,6 @@
+{
+  "name": "MSport",
+  "description": "موقع عرض ومتابعة جدول نتائج المباريات الكروية المباشرة واليومية للدوريات والبطولات الكبرى والجاهز للتهيئة المخصصة حسب التفضيلات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
